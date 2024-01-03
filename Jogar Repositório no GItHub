@@ -1,0 +1,21 @@
+# JOGANDO REPOSITÓRIO NOVO OU ATUALIZADO NO Git Hub
+
+ - Abra sua pastinha a qual você criou ou atualizou o repositório;
+
+ - Abra com o botão direito do mouse e clique em "Git Bash";
+
+- Após abrir uma telinha de comando, digite o comando> git status;
+
+- Aparecerá uma linha em vermelho sinalizando que há uma pasta nova;
+
+- Digite o comando> git add . ou git add -A para adicionar todos os arquivos;
+
+- Logo após digite o comando> git cmmit -m “digite algo para sinalizar sua atualização”
+
+- Aparecera uma linha dizendo que se você quiser mandar ele para nuvem, deverá fazer um push;
+
+- Digite o comando> git push origin main
+
+- Vá até o GitHub e dê um F5 - atualize a página.
+
+- Prontinho :)
