@@ -1,0 +1,27 @@
+## CLONAR 
+
+### OBS> Você deverá ter instalado em seu pc o Git/GitHub
+
+- https://www.youtube.com/watch?v=gMh6lrXibWY&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=5
+- https://www.youtube.com/watch?v=5BYm7UdCrX0&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=5
+
+
+- Entre no https://github.com/ ;
+
+- Clique na foto do seu perfil localizada no canto superior a direita da tela;
+
+- Clique em  YOUR REPOSITORIES (seu repositório);
+
+- Clique no repositório o qual você queira clonar;
+
+- Abrirá a pagina em "<> code" clique em "Code" abrirá uma telinha com as opções em HTTPS, HSH, GitHub CLI;
+
+- Escolha a opção que você deseja e copie o "link" que está dentro da "caixa". (No meu caso eu uso o HTTPS);
+
+- Após copiar o código, o código abra/crie uma pasta a qual você deseja receber o seu repositório;
+
+- Ao entrar na pasta, ao clicar com o botão direito do mouse, aparecerá a opção de abrir o "Git Bash" clique nessa opção;
+
+- Após clicar, digite o comando git clone “cole o link que você copiou no https://github.com” - sem aspas!!!;
+
+- Pronto!!! Se for a primeira vez que você acessa o Git bash pela sua maquina, provavelmente vai solicitar que que você se autentique via browser para ele vincular a credencial ou solicitará seu usuário e senha.
